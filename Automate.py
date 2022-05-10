@@ -38,7 +38,7 @@ openfile= tk.Button(root, text="Open File", padx=10,pady=5, fg="grey", bg="#263D
 openfile.pack()
 
 runApps= tk.Button(root, text="Run Apps", padx=10,
- pady=10, fg="grey", bg="#263D42", command= runApps)
+ pady=10, fg="white", bg="#263D42", command= runApps)
 runApps.pack()
 
 
